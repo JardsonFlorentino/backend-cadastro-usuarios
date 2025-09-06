@@ -15,7 +15,11 @@ A API oferece os seguintes endpoints para comunicação com o front-end:
 - Gerenciador de Pacotes: npm
 
 ## 🔗 Repositório Frontend
-- Frontend: https://github.com/JardsonFlorentino/cadastro-usuarios
+- **Frontend**: https://github.com/JardsonFlorentino/cadastro-usuarios
+
+### 🌐 Aplicação Online
+
+- **Site:** https://cadastro-usuarios-blush.vercel.app/
 
 ##
 
