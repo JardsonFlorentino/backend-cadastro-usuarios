@@ -17,9 +17,8 @@ A API oferece os seguintes endpoints para comunicação com o front-end:
 ## 🔗 Repositório Frontend
 - Frontend: https://github.com/JardsonFlorentino/cadastro-usuarios
 
-##
+## 🙋‍♂️ Autor
 
-🙋‍♂️ Autor
 Desenvolvido por Jardson
 
 [Meu LinkedIn](https://www.linkedin.com/in/jardsonflorentino) | [Meu GitHub](https://github.com/JardsonFlorentino)
